@@ -16,7 +16,7 @@ profile: Welcome to my Website. I hope you will find something interesting.
 profile_links:
   Email: "mailto:desire.kabuya@aims.ac.rw"
   GitHub: "https://github.com/KabDes"
-  Linkedin:"https://www.linkedin.com/in/désiré-kabuya-79ab8322/"
+  Linkedin: "https://www.linkedin.com/in/désiré-kabuya-79ab8322/"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
