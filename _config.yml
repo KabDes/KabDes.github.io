@@ -1,6 +1,6 @@
 # Site settings
 title: Désiré Kabuya
-url: "https://kabdes.github.io/"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+url: "https://dkabuya.github.io/"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
@@ -9,13 +9,13 @@ description: >
 # Your information
 email: your_email@example.com
 author: Désiré Kabuya
-avatar: "https://github.com/KabDes/KabDes.github.io/blob/gh-pages/photos/desire.jpg?raw=true"
+avatar: "https://github.com/dkabuya/dkabuya.github.io/blob/gh-pages/photos/desire.jpg?raw=true"
 profile: Welcome to my Website. I hope you will find something interesting.
 #twitter_username: @desire_kabuya
-#github_username:  KabDes
+#github_username:  dkabuya
 profile_links:
   Email: "mailto:desire.kabuya@aims.ac.rw"
-  GitHub: "https://github.com/KabDes"
+  GitHub: "https://github.com/dkabuya"
   Linkedin: "https://www.linkedin.com/in/désiré-kabuya-79ab8322/"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
